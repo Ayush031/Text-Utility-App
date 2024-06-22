@@ -1,5 +1,5 @@
 # Text Utility App
-This is My first react App.<br>
+This was My first react App adding it to github.<br>
 This project involves various functions regarding text formatting and contains editing options for content beautification.
 
 ## Key Functions:
