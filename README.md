@@ -1,4 +1,5 @@
 # Text Utility App
+This is My first react App.<br>
 This project involves various functions regarding text formatting and contains editing options for content beautification.
 
 ## Key Functions:
@@ -11,7 +12,6 @@ This project involves various functions regarding text formatting and contains e
 `February 2023`
 
 # Author
-
 [Ayush Kansal](https://linkedin.com/in/aykansal)
 
 
