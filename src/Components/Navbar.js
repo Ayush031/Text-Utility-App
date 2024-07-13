@@ -39,7 +39,7 @@ export default function Navbar(pass) {
                         <li className="nav-item">
                             <Link className="nav-link" to="/About1">About</Link>
                         </li>
-                         <li className="nav-item">Made By
+                         <li className="nav-item">
                             <Link className="nav-link text-primary" to="https://wwww.github.com/Ayush031">GitHub</Link>
                         </li>
                     </ul>
