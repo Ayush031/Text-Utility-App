@@ -39,6 +39,9 @@ export default function Navbar(pass) {
                         <li className="nav-item">
                             <Link className="nav-link" to="/About1">About</Link>
                         </li>
+                         <li className="nav-item">Made By
+                            <Link className="nav-link text-primary" to="https://wwww.github.com/Ayush031">GitHub</Link>
+                        </li>
                     </ul>
                     {/* Pink Mode Switch */}
                     <div className={`form-check form-switch text-${pass.mode === 'pink' || pass.mode === 'green' || pass.mode === 'dark' ? 'light' : 'dark'} mx-3`}>
